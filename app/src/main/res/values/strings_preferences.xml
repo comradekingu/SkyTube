@@ -35,12 +35,12 @@
 	<string name="continue_">Continue</string>
 	<string name="databases_importing">Importing…</string>
 	<string name="databases_import_fail">Failed to import your databases.</string>
-	<string name="databases_import_success">Databases imported successfully.  Restart the app to apply changes.</string>
+	<string name="databases_import_success">Databases imported. Restart the app to apply changes.</string>
 
 	<string name="pref_key_import_subs">pref_key_import_subs</string>
 	<string name="pref_title_import_subs">Import Subscriptions From YouTube</string>
 	<string name="pref_summary_import_subs">Import your subscriptions from YouTube.</string>
-	<string name="subs_import_select_backup">Select YouTube xml file to import</string>
+	<string name="subs_import_select_backup">Select YouTube XML file to import</string>
 
 	<string name="pref_about_category">About</string>
 	<string name="pref_title_website">Website</string>
@@ -59,9 +59,9 @@
 	<string name="app_license">
 		Copyright &#169; 2015-2017  Ramon Mifsud\n
 
-		\nThis program is free software: you can redistribute it and/or modify
-		it under the terms of the GNU General Public License as published by
-		the Free Software Foundation (version 3 of the License).\n
+		\nThis program is free software: You can redistribute it and/or modify
+		it under the terms of the GNU General Public License version 3 as published by
+		the Free Software Foundation.\n
 
 		\nThis program is distributed in the hope that it will be useful,
 		but WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -69,7 +69,7 @@
 		GNU General Public License for more details.\n
 
 		\nYou should have received a copy of the GNU General Public License
-		along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;
+		along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;
 	</string>
 	<string name="i_agree">I Agree</string>
 
@@ -102,7 +102,7 @@
 		<item>Lietuvių</item>
 		<item>Magyar</item>
 		<item>Nederlands</item>
-		<item>Norsk</item>
+		<item>Norsk bokmål</item>
 		<item>O‘zbek</item>
 		<item>Polski</item>
 		<item>Português</item>
@@ -181,7 +181,7 @@
 		<item>lt</item>
 		<item>hu</item>
 		<item>nl</item>
-		<item>no</item>
+		<item>nb-NO</item>
 		<item>uz</item>
 		<item>pl</item>
 		<item>pt-PT</item>
@@ -457,9 +457,9 @@
 
 	<string name="pref_youtube_api_key">pref_youtube_api_key</string>
 	<string name="pref_title_youtube_api_key">YouTube API Key</string>
-	<string name="pref_summary_youtube_api_key">Enter your own YouTube Data API Key.  Leave blank to use the default one.</string>
+	<string name="pref_summary_youtube_api_key">Enter your own YouTube Data API Key. Leave blank to use the default one.</string>
 	<string name="pref_youtube_api_key_error">An error occurred attempting to validate the API Key you entered.</string>
-	<string name="pref_youtube_api_key_custom">Key is valid.  Restart app to use the new YouTube API key.</string>
+	<string name="pref_youtube_api_key_custom">Key is valid. Restart app to use the new YouTube API key.</string>
 	<string name="pref_youtube_api_key_default">Restart app to switch back to default YouTube API key.</string>
 	<string name="restart">Restart</string>
 </resources>
